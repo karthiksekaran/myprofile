@@ -76,9 +76,19 @@ Research fellow with cognitive analytical ability, skilled in Machine Learning, 
 
 Carotenoid Cleavage Dioxygenases (CCD) Database  
 >   * Developed using Responsive Bootstrap Template, JavaScript Libaries, PHP, MySQL Database, and CSS  
->   * Database Link: [http://ccd-db.vit.ac.in/home/index.html]  
 
 ### Paper Publications
+
+* **Single-cell transcriptomic analysis reveals crucial oncogenic signatures and its associative cell types involved in gastric cancer** [Click Here](https://link.springer.com/article/10.1007/s12032-023-02174-8)
+
+* **Evaluation of machine learning algorithms and computational structural validation of CYP2D6 in predicting the therapeutic response to tamoxifen in breast cancer** [Click Here](https://www.europeanreview.org/article/37005)
+
+* **Identification of novel hypertension biomarkers using explainable AI and metabolomics** [Click Here](https://link.springer.com/article/10.1007/s11306-024-02182-3)
+
+* **Dissecting crucial gene markers involved in HPV-associated oropharyngeal squamous cell carcinoma from RNA-sequencing data through explainable artificial intelligence** [Click Here](https://www.imrpress.com/journal/FBL/29/6/10.31083/j.fbl2906220)
+
+* **Genomic insights and advanced machine learning: characterizing autism spectrum disorder biomarkers and genetic interactions**
+Manuscript Link: [Click Here](https://link.springer.com/article/10.1007/s11011-023-01322-3)
 
 * **Airway and Oral microbiome profiling of SARS-CoV-2 infected asthma and non-asthma cases revealing alterations-A pulmonary microbial investigation**  
 Manuscript Link : [Click Here](https://pubmed.ncbi.nlm.nih.gov/37590197/)
@@ -107,14 +117,8 @@ Manuscript Link : [Click Here](https://onlinelibrary.wiley.com/doi/10.1002/cbf.3
 * **Predicting drug responsiveness with deep learning from the effects on gene expression of obsessive–compulsive disorder affected cases**  
 Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/abs/pii/S014036641931552X)  
 
-* **Predicting autism spectrum disorder from associative genetic markers of phenotypic groups using machine learning**  
-Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12652-020-02155-z)  
-
 * **Predicting bipolar disorder and schizophrenia based on non-overlapping genetic phenotypes using deep neural network**  
 Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12065-019-00346-y)  
-
-* **Predicting Rheumatoid Arthritis from the Biomarkers of Clinical Trials using Improved Harmony Search with Adaptive Neuro-Fuzzy Inference System**  
-Manuscript Link : [Click Here](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs221252)
 
 * **Breast cancer classification using deep neural networks (Book Chapter)**  
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-10-6680-1_12)  
