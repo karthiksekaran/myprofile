@@ -8,7 +8,6 @@ Research fellow with cognitive analytical ability, skilled in Machine Learning, 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)
 <img src="https://www.uwo.ca/web_standards/img/social/svg/icn-researchgate.svg" width="20" height="20" /> [ResearchGate](https://www.researchgate.net/profile/Karthik-Sekaran)
 <img src="https://sorse.github.io/assets/images/orcid.svg" width="20" height="20" /> [ORCID](https://orcid.org/0000-0002-1969-7632)
-<img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5673e406c6979143615582d5/images/56e7d19390336026d87181c6/file-iOvnUfCXWD.png" width="20" height="20" /> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57208071216)
 
 ### Subject Skills
 
