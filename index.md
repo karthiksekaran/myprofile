@@ -1,9 +1,6 @@
-## Welcome to My GitHub Profile
+## Welcome!
 
-### About me
-<img src = "https://media.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_400_400/0/1653451261944?e=1697068800&v=beta&t=ek6X7FB-KRd_DS5kYg2_O27VFqTDyEvtlgfR0S22t1o" width = 200px height = 200px>
-
-Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacoinformatics, Microbiome Studies and Multi-OMICS modelling.
+I'm Karthik Sekaran, Research fellow, experienced in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacoinformatics, Microbiome Studies and Multi-OMICS modelling.
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)
 <img src="https://www.uwo.ca/web_standards/img/social/svg/icn-researchgate.svg" width="20" height="20" /> [ResearchGate](https://www.researchgate.net/profile/Karthik-Sekaran)
